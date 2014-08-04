@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date_to_take: 2014-08-03 18:21:54
+  medication_id: 
+  done: false
+
+two:
+  date_to_take: 2014-08-03 18:21:54
+  medication_id: 
+  done: false
